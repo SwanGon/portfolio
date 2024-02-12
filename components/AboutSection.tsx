@@ -38,15 +38,15 @@ const AboutSection = () => {
             </p>
             <br />
             <p>
-              Je suis actuellement en dernière année de mon cursus en BUT Informatique à l'IUT de Nantes.
-              J'ai plusieurs expériences comme mon année d'alternance à la RATP en tant que développeur Fullstack.
-              J'ai également eu l'opportunité de travailler en tant que stagiaire développeur PHP Symfony à Experis France.
+              Je suis actuellement en dernière année de mon cursus en BUT Informatique à l&lsquo;IUT de Nantes.
+              J&lsquo;ai plusieurs expériences comme mon année d&lsquo;alternance à la RATP en tant que développeur Fullstack.
+              J&lsquo;ai également eu l&lsquo;opportunité de travailler en tant que stagiaire développeur PHP Symfony à Experis France.
             </p>
             <br />
             <p>
               Je suis également nageur/sauveteur en parallèle de mes études, ce qui me permet de développer des
               compétences en <span className="font-bold">{" gestion de stress"}</span> et en <span className="font-bold">{" travail d'équipe"}</span>.
-              Aussi, je suis passioné de golf, où j'apprends l'<span className="font-bold">{"humilité"}</span> et la <span className="font-bold">{" patience"}</span>.
+              Aussi, je suis passioné de golf, où j&lsquo;apprends l&lsquo;<span className="font-bold">{"humilité"}</span> et la <span className="font-bold">{" patience"}</span>.
             </p>
           </div>
           <div className="text-center md:w-1/2 md:text-left">
