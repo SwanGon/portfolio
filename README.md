@@ -1,16 +1,18 @@
-# Tailwind CSS and Next.js Portfolio
+## Mon portfolio hébergé via Vercel
 
-This is a template for creating a portfolio with Tailwind CSS and Next.js.
+C'est un projet que j'ai décidé de développer pour découvrir le déploiement d'un site léger et optimisé via la solution d'hébergement versatile et simple de Vercel
+Ce portfolio est développé avec TypeScript et TailWind CSS avec le framework Next.js (utilisant la librairie React). </br>
+Il m'a paru important d'utiliser une pile technique moderne et adaptée à la taille de ce projet.
 
-## How it works
+## Exécuter localement
 
-Fork or download the repo and change whatever you need to change for your needs.
-
-## Running Locally
-
-Can run the application in VS Code or a terminal and it will be available at `http://localhost:3000`.
+Vous pouvez cloner et exécuter localement l'application sur un terminal grâce aux deux lignes de commandes ci-dessous qui sera accessible à cette adresse : `http://localhost:3000`.
 
 ```bash
 npm install
 npm run dev
 ```
+
+## Prérequis
+
+Node.js version 20 ou ultérieure
